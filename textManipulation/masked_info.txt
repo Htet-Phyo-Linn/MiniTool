@@ -1,0 +1,3 @@
+Credit card: XXXX XXXX XXXX 3456
+SSN: XXX-XX-6789
+Email: john.doe@masked.com
